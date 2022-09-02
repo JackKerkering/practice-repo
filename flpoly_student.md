@@ -1,27 +1,28 @@
-## First Name Last Name
+## Jack Kerkering
 
-### Term Year 
+### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precal
 
-- Course 2
+- Intro to data
 
-- Course 3
+- Intro to comp
 
-- Course 4
+- Python for data analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Colorguard
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- making others happy
+- as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/02
